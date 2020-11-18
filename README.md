@@ -7,4 +7,8 @@
 [**Перейти на сайт**](http://videofas.com)
 
 ***
-111
+# VideoFas - online video-sharing platform
+
+## VideoFas - freedom of information and opinion.
+
+## VideoFas - video hosting without strict censorship and complex rules.
